@@ -1,2 +1,2 @@
-git = "Why is git so confusing?"
- p "because."
+git = "Why is git so confusing? I agree, git is confusing."
+
